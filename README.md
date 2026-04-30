@@ -137,3 +137,12 @@ When an anomaly or missed routine is detected, an alert is generated.
 - **No Regulatory Compliance:** This software is **NOT** compliant with medical device standards (e.g., HIPAA, GDPR for health data, FDA regulations). Do not use this with real Patient Health Information (PHI).
 
 ---
+
+## 📬 Contact & Community
+
+- **GitHub Discussions:** [github.com/ummaruje/dementia-routine-monitoring-api/discussions](https://github.com/ummaruje/dementia-routine-monitoring-api/discussions)
+- **Email:** ummaruje@gmail.com
+- **Author:** Umar Abdulkadir Isa — AI Engineer, Care Sector Portfolio
+
+> Built with ❤️ for the 900,000 people living with dementia in the UK  
+> *"The most human thing we can do with AI is notice when someone needs us — before they can ask."*
